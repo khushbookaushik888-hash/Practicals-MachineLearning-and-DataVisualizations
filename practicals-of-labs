@@ -1,0 +1,62 @@
+# AIML Practical Work – Machine Learning & Data Visualization
+
+## About This Repository
+
+This repository contains my academic practical work as a B.Tech Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning.
+
+It includes implementations of Machine Learning algorithms and Data Visualization techniques using Python and Microsoft Power BI.
+
+## Technologies & Tools Used
+
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Microsoft Power BI
+- Power Query
+- CSV Datasets
+
+## 1. Machine Learning Practicals
+
+The repository includes practical implementations of Machine Learning concepts and algorithms, such as:
+
+- Simple Linear Regression
+- Multiple Linear Regression
+- Logistic Regression
+- Regression with Regularization
+- Principal Component Analysis (PCA)
+- Support Vector Machine (SVM)
+- Decision Tree Classification
+- Naive Bayes Classifier
+- K-Means Clustering
+
+## 2. Data Visualization Practicals
+
+The repository also includes Power BI practicals covering:
+
+- Getting Started with Power BI
+- Data Cleaning and Transformation
+- Bar and Line Charts
+- Interactive Dashboards with Filters and Slicers
+- Geo-Visualization with Maps
+- Pie and Donut Charts
+- Heatmaps and Tree Maps
+- Time Series Forecasting and Trend Lines
+
+## Learning Objectives
+
+- Understand and implement Machine Learning algorithms.
+- Perform data preprocessing and analysis.
+- Visualize data using charts and dashboards.
+- Explore dimensionality reduction and clustering.
+- Interpret model results and visualization insights.
+
+## Author
+
+**Khushboo Kaushik**
+
+B.Tech CSE – Artificial Intelligence and Machine Learning
+
+**Purpose:** Academic coursework, practical implementation, and continuous learning.
